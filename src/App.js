@@ -23,7 +23,7 @@ const theme = {
 function App() {
   return (
     <div className="Uniswap">
-    <SwapWidget jsonRpcUrlMap={jsonRpcUrlMap}  theme={theme} width="100%"/>
+    <SwapWidget jsonRpcUrlMap={jsonRpcUrlMap} width="100%"/>
   </div>
   );
 }
