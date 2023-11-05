@@ -8,16 +8,14 @@ const jsonRpcUrlMap = {
 }
 
 const theme = {
-  primary: '#FFF',
-  secondary: '#A9A9A9',
-  interactive: '#000',
-  container: '#4E4E5A',
-  module: '#222633',
-  accent: '#71FF98',
-  outline: '#CC1',
-  dialog: '#000',
-  fontFamily: 'Josefin Sans',
-  borderRadius: 0.5,
+  primary: '#000',
+  secondary: '#A60A00',
+  container: '#EDB901',
+  module: '#EDB901',
+  accent: '#A60A00',
+  outline: '#A60A00',
+  dialog: '#EDB901',
+  fontFamily: 'Inter',  
 }
 
 function App() {
