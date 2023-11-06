@@ -11,7 +11,7 @@ const theme = {
   primary: '#000',
   secondary: '#A60A00',
   container: '#EDB901',
-  module: '#EDB901',
+  module: '#fff',
   accent: '#A60A00',
   outline: '#A60A00',
   dialog: '#EDB901',
