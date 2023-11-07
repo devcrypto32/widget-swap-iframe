@@ -1,6 +1,7 @@
 import { SwapWidget } from '@uniswap/widgets'
 import '@uniswap/widgets/fonts.css'
 import './index.css'
+import 'iframe-resizer/js/iframeResizer.contentWindow'
 
 
 const jsonRpcUrlMap = {
